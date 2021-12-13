@@ -20,6 +20,13 @@ Once the account is set, the asscoiated **.json** file must be download.
 
 ## Setup Environment Variable in OS
 
-- Open the _System Properties_ and click on _Environment Variable_.
+- Open the _System Properties_ and click on _Environment Variables_.
 - Under the _System Variables_, create a new variable called _GOOGLE_APPLICATION_CREDENTIALS_.
 - Set the complete path of **.json** file as the value of this variable.
+
+
+License and Citation
+---------
+The codes are licensed under MIT license. 
+
+For any utilization of the code content of this repository, the following paper needs to get cited by the user:
