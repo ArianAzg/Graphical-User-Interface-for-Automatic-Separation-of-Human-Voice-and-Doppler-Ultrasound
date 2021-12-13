@@ -36,7 +36,7 @@ The code is written in Python 3 and uses Keras as well as MATLAB. The latest ver
 
 ## GUI Structure
 
-The GUI is showon below:
+The GUI structure is shown below:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145888683-fe2d3cba-1868-49c2-ac61-9568c72823a0.png" width="400" align="center">
