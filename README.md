@@ -42,6 +42,7 @@ The GUI structure is shown below:
 <img src="https://user-images.githubusercontent.com/48659018/145888683-fe2d3cba-1868-49c2-ac61-9568c72823a0.png" width="400" align="center">
 </p>
 
+The functionality of each button is described as follows:
 - **Select file:**
 By clicking on the Select file button, the generic path in MS Windows will be opened and the end-user must select the denoised file for further processing.
 
