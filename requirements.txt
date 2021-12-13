@@ -1,0 +1,10 @@
+scipy==1.7.1
+pygame==2.0.2
+ipython==7.27.0
+librosa==0.8.1
+matplotlib-base==3.4.3
+numpy==1.19.5
+simpleaudio==1.0.4
+malaya-speech==1.2.1
+pillow==8.3.2
+matplotlib-inline==0.1.2
