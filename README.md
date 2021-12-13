@@ -42,11 +42,16 @@ The GUI is showon below:
 <img src="https://user-images.githubusercontent.com/48659018/145888683-fe2d3cba-1868-49c2-ac61-9568c72823a0.png" width="400" align="center">
 </p>
 
-- Open the _System Properties_ and click on _Environment Variables_.
-- Under the _System Variables_, create a new variable called _GOOGLE_APPLICATION_CREDENTIALS_.
-- Set the complete path of **.json** file as the value of this variable.
+- **Select file:**
+By clicking on the Select file button, the generic path in MS Windows will be opened and the end-user must select the denoised file for further processing.
 
+- **Start to process:**
+This button applies the Google speech recognizer on the 1-minute audio segments on the fly. When the last audio segment gets processed, the program notifies the end-user to move forward with the next step.
 
+- **Audio chunking and selection:**
+During the experimental studies recorded in the post-dive audio files, the examiner provided details about the experiment and change of subject and normally it takes more than 3 seconds. This practical assumption is required to only select human voice segments above this threshold. By clicking this button, these files get pruned from all detected human voice activity for final verification in the next step. 
+- **Play and save:**
+In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end-user.
 License and Citation
 ---------
 The codes are licensed under MIT license. 
