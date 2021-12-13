@@ -30,3 +30,5 @@ License and Citation
 The codes are licensed under MIT license. 
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
+
+> A. Azarang et al., Development of Graphical User Interface for Automatic Separation of Human Voice from Audio Doppler Ultrasound in Diving Experiments
