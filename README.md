@@ -24,6 +24,13 @@ Once the account is set, the asscoiated **.json** file must be download.
 - Under the _System Variables_, create a new variable called _GOOGLE_APPLICATION_CREDENTIALS_.
 - Set the complete path of **.json** file as the value of this variable.
 
+Requirements
+------------
+
+The code is written in Python 3 and uses Keras as well as MATLAB. The latest versions (at the time of this writing) of Tensorflow, Sklearn, Networkx, Numpy, and Scipy are used. These packages can be installed using the following command:
+    
+    $ pip install -r requirements.txt
+
 
 License and Citation
 ---------
