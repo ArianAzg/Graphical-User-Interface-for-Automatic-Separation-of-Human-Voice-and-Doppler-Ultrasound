@@ -12,8 +12,14 @@ The recognition task incorporates the Google speech recognizer to detect the pre
 # Steps to Run the GUI
 
 ## Setup the Google Speech Recognizer Account
+First, you need to create an account on Google Speech Recognizer using your Google account at the following link: 
 
+https://cloud.google.com/
 
+Once the account is set, the asscoiated **.json** file must be download. 
 
 ## Setup Environment Variable in OS
 
+- Open the _System Properties_ and click on _Environment Variable_.
+- Under the _System Variables_, create a new variable called _GOOGLE_APPLICATION_CREDENTIALS_.
+- Set the complete path of **.json** file as the value of this variable.
