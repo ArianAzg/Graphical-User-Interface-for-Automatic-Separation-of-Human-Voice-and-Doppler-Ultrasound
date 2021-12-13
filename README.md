@@ -9,7 +9,7 @@ The recognition task incorporates the Google speech recognizer to detect the pre
 
 ![image](https://user-images.githubusercontent.com/48659018/145867188-82d8c71f-dd1e-4f0c-8643-647dbc5bdfbf.png)
 
-# Steps to Run the GUI
+# How to Run
 
 ## Setup the Google Speech Recognizer Account
 First, you need to create an account on Google Speech Recognizer using your Google account at the following link: 
