@@ -55,7 +55,7 @@ During the experimental studies recorded in the post-dive audio files, the exami
 In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end-user.
 License and Citation
 ---------
-The codes are licensed under MIT license. 
+The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
 
