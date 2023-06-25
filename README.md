@@ -1,12 +1,12 @@
 # Graphical-User-Interface-for-Automatic-Separation-of-Human-Voice-and-Doppler-Ultrasound
 
-In this repository, a graphical user interface (GUI) is developed to perform the automatic speech recognition and separation in audio Doppler recordings. In early 1970s and 1980s, audio Doppler recordings were captured in one-channel audio with the presence of human voice. The data remains undesired unless the human voice activity effectively gets separated from audio Doppler ultrasound. An example of of the dataset is shown in figure below:
+In this repository, a graphical user interface (GUI) is developed to perform the automatic speech recognition and separation in audio Doppler recordings. In early 1970s and 1980s, audio Doppler recordings were captured in one-channel audio with the presence of a human voice. The data remains undesired unless the human voice activity effectively gets separated from audio Doppler ultrasound. An example of the dataset is shown in the figure below:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145866335-352613e3-eb48-4004-8205-058d1375613c.png" width="600" align="center">
 </p>
 
-The recognition task incorporates the Google speech recognizer to detect the presence of human voice together with corresponding timestamps. The detected human speech is then separated as the header of the audio Doppler ultrasound within the developed GUI. An example of separated human voice and Doppler ultrasound is shown below. 
+The recognition task incorporates the Google speech recognizer to detect the presence of human voice together with corresponding timestamps. The detected human speech is then separated as the header of the audio Doppler ultrasound within the developed GUI. An example of a separated human voice and Doppler ultrasound is shown below. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145867188-82d8c71f-dd1e-4f0c-8643-647dbc5bdfbf.png" width="600" align="center">
@@ -19,7 +19,7 @@ First, you need to create an account on Google Speech Recognizer using your Goog
 
 https://cloud.google.com/
 
-Once the account is set, the asscoiated **.json** file must be download. 
+Once the account is set, the associated **.json** file must be downloaded. 
 
 ## Setup Environment Variable in OS
 
@@ -52,7 +52,7 @@ This button applies the Google speech recognizer on the 1-minute audio segments 
 - **Audio chunking and selection:**
 During the experimental studies recorded in the post-dive audio files, the examiner provided details about the experiment and change of subject and normally it takes more than 3 seconds. This practical assumption is required to only select human voice segments above this threshold. By clicking this button, these files get pruned from all detected human voice activity for final verification in the next step. 
 - **Play and save:**
-In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end-user.
+In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end user.
 License and Citation
 ---------
 The codes are licensed under GPL-2.0 license.
