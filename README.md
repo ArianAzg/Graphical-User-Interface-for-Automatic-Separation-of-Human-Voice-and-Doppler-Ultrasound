@@ -59,4 +59,4 @@ The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
 
-> A. Azarang, L. Blogg, J. Currens, R. Lance, R. Moon, P. Lindholm, V. Papadopoulou, Development of Graphical User Interface for Automatic Separation of Human Voice from Audio Doppler Ultrasound in Diving Experiments, Under Review.
+> Azarang A, Blogg SL, Currens J, Lance RM, Moon RE, Lindholm P, et al. (2023) Development of a graphical user interface for automatic separation of human voice from Doppler ultrasound audio in diving experiments. PLoS ONE 18(8): e0283953. https://doi.org/10.1371/journal.pone.0283953
