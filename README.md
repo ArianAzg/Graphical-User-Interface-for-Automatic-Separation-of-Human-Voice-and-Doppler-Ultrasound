@@ -4,12 +4,16 @@ In this repository, a graphical user interface (GUI) is developed to perform the
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145866335-352613e3-eb48-4004-8205-058d1375613c.png" width="600" align="center">
+    <br>
+    <em>Figure reprinted with permission [1].</em>
 </p>
 
 The recognition task incorporates the Google speech recognizer to detect the presence of human voice together with corresponding timestamps. The detected human speech is then separated as the header of the audio Doppler ultrasound within the developed GUI. An example of a separated human voice and Doppler ultrasound is shown below. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145867188-82d8c71f-dd1e-4f0c-8643-647dbc5bdfbf.png" width="600" align="center">
+    <br>
+    <em>Figure reprinted with permission [1].</em>
 </p>
 
 # How to Run
@@ -40,6 +44,8 @@ The GUI structure is shown below:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/145888683-fe2d3cba-1868-49c2-ac61-9568c72823a0.png" width="400" align="center">
+        <br>
+    <em>Figure reprinted with permission [1].</em>
 </p>
 
 The functionality of each button is described as follows:
@@ -59,4 +65,4 @@ The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
 
-> Azarang A, Blogg SL, Currens J, Lance RM, Moon RE, Lindholm P, et al. (2023) Development of a graphical user interface for automatic separation of human voice from Doppler ultrasound audio in diving experiments. PLoS ONE 18(8): e0283953. https://doi.org/10.1371/journal.pone.0283953
+> 1. Azarang A, Blogg SL, Currens J, Lance RM, Moon RE, Lindholm P, et al. (2023) Development of a graphical user interface for automatic separation of human voice from Doppler ultrasound audio in diving experiments. PLoS ONE 18(8): e0283953. https://doi.org/10.1371/journal.pone.0283953
