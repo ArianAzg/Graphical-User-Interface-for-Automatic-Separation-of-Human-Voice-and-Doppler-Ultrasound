@@ -23,7 +23,7 @@ First, you need to create an account on Google Speech Recognizer using your Goog
 
 https://cloud.google.com/
 
-Once the account is set, the associated **.json** file must be downloaded. 
+Once the account is set, the associated `**.json**` file must be downloaded. 
 
 ## Setup Environment Variable in OS
 
