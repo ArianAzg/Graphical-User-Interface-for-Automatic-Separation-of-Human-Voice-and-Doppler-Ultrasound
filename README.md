@@ -72,4 +72,4 @@ For any utilization of the code content of this repository, the following paper 
 
 ## Contact
 
-
+For bug reports and feature requests please contact us at: aazarang@unc.edu.
