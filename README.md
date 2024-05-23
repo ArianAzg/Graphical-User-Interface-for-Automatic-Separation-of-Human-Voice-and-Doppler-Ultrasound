@@ -59,8 +59,9 @@ This button applies the Google speech recognizer on the 1-minute audio segments 
 During the experimental studies recorded in the post-dive audio files, the examiner provided details about the experiment and change of subject and normally it takes more than 3 seconds. This practical assumption is required to only select human voice segments above this threshold. By clicking this button, these files get pruned from all detected human voice activity for final verification in the next step. 
 - **Play and save:**
 In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end user.
-License and Citation
----------
+
+## License
+
 The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
