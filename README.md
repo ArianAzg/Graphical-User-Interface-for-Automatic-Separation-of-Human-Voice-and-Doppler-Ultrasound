@@ -64,7 +64,7 @@ In this step, the separated human voice and Doppler ultrasound audio components 
 
 The codes are licensed under GPL-2.0 license.
 
-# Citation
+## Citation
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
 
