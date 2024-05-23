@@ -60,6 +60,7 @@ During the experimental studies recorded in the post-dive audio files, the exami
 - **Play and save:**
 In this step, the separated human voice and Doppler ultrasound audio components are displayed to the end user.
 
+The separated audio clips will be stored in two different directories under working directory. 
 ## License
 
 The codes are licensed under GPL-2.0 license.
